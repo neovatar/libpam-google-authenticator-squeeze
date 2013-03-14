@@ -1,0 +1,4 @@
+pam_google_authenticator.so lib/security
+google-authenticator usr/bin
+FILEFORMAT usr/share/doc/libpam-google-authenticator
+totp.html usr/share/doc/libpam-google-authenticator
